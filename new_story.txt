@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Текст из main
-=======
-Текст из feautre
->>>>>>> feature
+Текст из feature
